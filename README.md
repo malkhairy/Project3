@@ -18,4 +18,4 @@ Tree	    100%	        80%
 SVC	      89%	          84%
 
 
-jupyter with data and code can be found @: 
+jupyter with data and code can be found @:  https://github.com/malkhairy/Project3/blob/5e693836bb55fe52b22ddd0fd4b94452ec5b17cf/PracticalProject_3.ipynb
